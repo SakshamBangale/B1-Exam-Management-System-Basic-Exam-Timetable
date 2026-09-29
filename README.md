@@ -103,3 +103,17 @@ This project does not include:
 ## Developer
 
 Saksham Rajendra Bangale
+
+
+
+
+<img width="1600" height="801" alt="WhatsApp Image 2026-09-29 at 2 02 08 PM" src="https://github.com/user-attachments/assets/4dea549d-faca-4b11-ab39-f9c62fa9b061" />
+<img width="1600" height="807" alt="WhatsApp Image 2026-09-29 at 2 04 49 PM" src="https://github.com/user-attachments/assets/392a53dd-612c-422f-8bbb-04ed3eff4163" />
+<img width="1600" height="798" alt="WhatsApp Image 2026-09-29 at 2 04 02 PM" src="https://github.com/user-attachments/assets/6f1e336b-0415-465b-b59f-9e37562f0d0a" />
+<img width="1600" height="809" alt="WhatsApp Image 2026-09-29 at 2 03 49 PM" src="https://github.com/user-attachments/assets/30bfc1ad-2498-4bbe-9113-deae929f55b0" />
+<img width="1600" height="804" alt="WhatsApp Image 2026-09-29 at 2 03 20 PM" src="https://github.com/user-attachments/assets/a45dac60-3d81-4c75-bd09-b1f2abd91baf" />
+<img width="1600" height="802" alt="WhatsApp Image 2026-09-29 at 2 00 06 PM" src="https://github.com/user-attachments/assets/3a542281-60b1-46a9-89d0-d420712ca444" />
+<img width="1600" height="822" alt="WhatsApp Image 2026-09-29 at 1 58 25 PM" src="https://github.com/user-attachments/assets/92ac3f00-09dd-4269-8a92-36957492bdd9" />
+<img width="1600" height="822" alt="WhatsApp Image 2026-09-29 at 1 58 25 PM (1)" src="https://github.com/user-attachments/assets/c9a082c1-9f73-4e30-bcda-99580c44500b" />
+<img width="240" height="618" alt="WhatsApp Image 2026-09-29 at 1 57 11 PM" src="https://github.com/user-attachments/assets/a97cb753-e5ef-40b8-b3a6-74a370124b08" />
+
